@@ -1,0 +1,5 @@
+/.vercelignore
+/Procfile
+/README.md
+/vercel.json
+/_config.yml
